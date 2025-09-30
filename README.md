@@ -7,7 +7,7 @@ Edit file setenv.bat following your local drive
 
 # how to run
 1. Setup environment for vivado
-**$ setenv**
+**$ setenv.bat**
 
 2. Create project, synthesis, implementation and generate bitsteram
 **$ make build**
