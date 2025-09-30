@@ -1,6 +1,6 @@
 # vivado-tcl-template by ABJ
 TCL script for creating vivado project, synthesis, implementation and generate bitstream.
-The environment is set for running on Windows.
+The environment is set for running on Windows and Basys3 FPGA board.
 
 # pre-requisites
 Edit file setenv.bat following your local drive
