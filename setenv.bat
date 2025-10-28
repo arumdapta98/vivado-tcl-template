@@ -1,1 +1,1 @@
-C:\Xilinx\Vivado\2024.2\settings64.bat 
+D:\Xilinx\2025.1\Vivado\settings64.bat 
