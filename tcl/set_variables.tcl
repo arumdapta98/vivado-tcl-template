@@ -3,8 +3,13 @@ set board_name "basys3"
 set fpga_part "xc7a35tcpg236-1"
 
 # set project
-set project_name "demo_alu"
-set top_level "top_alu"
+# set project_name "demo_alu"
+# set top_level "top_alu"
+# set project_name "demo_counter7seg"
+# set top_level "top_counter7seg"
+set project_name "demo_dec7seg"
+set top_level "top_dec7seg"
+
 set top_level_tb "${top_level}_tb.v"
 
 # set template directory

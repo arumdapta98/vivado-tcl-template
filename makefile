@@ -37,6 +37,7 @@ clean:
 	if exist $(DIR_LOG) rmdir $(DIR_LOG) /S /Q
 	if exist $(DIR_BUILD) rmdir $(DIR_BUILD) /S /Q
 	if exist clockinfo.txt del clockinfo.txt
+	if exist dfx_runtime.txt del dfx_runtime.txt
 	
 check:
 	if not exist $(DIR_LOG) mkdir $(DIR_LOG)
